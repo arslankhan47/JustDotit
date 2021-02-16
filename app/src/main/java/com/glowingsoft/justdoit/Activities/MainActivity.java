@@ -1,8 +1,10 @@
-package com.glowingsoft.justdoit;
+package com.glowingsoft.justdoit.Activities;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import com.glowingsoft.justdoit.R;
 
 public class MainActivity extends AppCompatActivity {
 
